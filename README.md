@@ -1,6 +1,6 @@
 # **Vizsga**
 
-## **Bevezetés**
+## **Bevezetés**WESS 
 
 A feladat egy középvállalati informatikai rendszer tervezését és konfigurálását szimulálja. A **Bomba** egy dinamikusan fejlődő vállalat, amely modern IT infrastruktúrát kíván létrehozni egy új irodai központ számára. A cég célja egy stabil és biztonságos szerverrendszer kiépítése, amely támogatja az alkalmazottak napi munkáját, miközben megfelelő hálózati és biztonsági irányelveket alkalmaz.
 
@@ -72,7 +72,7 @@ A projekt során egy Windows-alapú szerverkörnyezetet kell kialakítani, amely
 | ------------------- | ------------- | ------------------------------- |
 | Tiltott IP 1        | 192.168.10.1  | Tiltott IP-cím                  |
 | Tiltott IP 2        | 192.168.10.2  | Tiltott IP-cím                  |
-| Tiltott IP 3        | 192.168.10.0  | Tiltott IP-cím                  |
+| Tiltott IP 3        | 192.168.10.3  | Tiltott IP-cím                  |
 | FeladatK (kliens)   | 192.168.10.5  | Kliensgép a feladat szerint     |
 | FeladatSZ (szerver) | 192.168.10.14 | Szerver az utolsó kiosztott cím |
 
