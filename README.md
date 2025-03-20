@@ -1,10 +1,10 @@
-# **PR - Hivatalos Vizsgafeladat**
+# **Vizsga**
 
 ## **Bevezetés**
 
-A feladat egy középvállalati informatikai rendszer tervezését és konfigurálását szimulálja. A **WESS Technologies** egy dinamikusan fejlődő vállalat, amely modern IT infrastruktúrát kíván létrehozni egy új irodai központ számára. A cég célja egy stabil és biztonságos szerverrendszer kiépítése, amely támogatja az alkalmazottak napi munkáját, miközben megfelelő hálózati és biztonsági irányelveket alkalmaz.
+A feladat egy középvállalati informatikai rendszer tervezését és konfigurálását szimulálja. A **Bomba** egy dinamikusan fejlődő vállalat, amely modern IT infrastruktúrát kíván létrehozni egy új irodai központ számára. A cég célja egy stabil és biztonságos szerverrendszer kiépítése, amely támogatja az alkalmazottak napi munkáját, miközben megfelelő hálózati és biztonsági irányelveket alkalmaz.
 
-A projekt során egy Windows-alapú szerverkörnyezetet kell kialakítani, amely tartalmaz egy tartományvezérlőt, DHCP szolgáltatást, nyomtatószervert, és egy központi biztonsági mentési megoldást. 
+A projekt során egy Windows-alapú szerverkörnyezetet kell kialakítani, amely tartalmaz egy tartományvezérlőt, DHCP szolgáltatást, nyomtatószervert, és egy RAID megoldást. 
 
 **Tantárgy:** Szerverek és felhőszolgáltatások
 
@@ -14,7 +14,6 @@ A projekt során egy Windows-alapú szerverkörnyezetet kell kialakítani, amely
 
 **Instrukciók:**
 
-- Minden feladat elvégzése kötelező.
 - A dolgozat során csak a megadott hálózati tartományt és konfigurációs beállításokat használja.
 - A vizsga teljes időtartama: korlátlan az órák végéig
 
