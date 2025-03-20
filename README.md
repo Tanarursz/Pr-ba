@@ -43,6 +43,7 @@ A projekt során egy Windows-alapú szerverkörnyezetet kell kialakítani, amely
   - Vickes Viktor
   - Szorgalmas Szebasztián
   - Dolgozó Olga
+- Olga és Viktor dolgozók, Szebasztián admin
 - Hozzon létre egy megosztott mappát, amely csak írási joggal rendelkezik és automatikusan felcsatolásra kerül. (1p)
 
 ### **5. Tartományba léptetés (2 pont)**
