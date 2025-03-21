@@ -29,6 +29,7 @@ A projekt során egy Windows-alapú szerverkörnyezetet kell kialakítani, amely
 - A számítógép azonosító neve legyen: „kliens”. (1p)
 - A kliens DNS-kiszolgálója a szerver IP-címe legyen.
 
+
 ### **3. Alapvető szerverbeállítások (9 pont)**
 - Állítsa be a megfelelő hálózati interfészeket. (1p)
 - A szerver IP-címe a hálózat utolsó kiosztható címe legyen. (2p)
@@ -41,6 +42,7 @@ A projekt során egy Windows-alapú szerverkörnyezetet kell kialakítani, amely
 - A jelszó **Aa1234** legyen
 - Hozza létre a "dolgozok" és "adminok" csoportokat.
 - Adja hozzá a következő felhasználókat: (1p)
+- Mindegyik felhasználónak **Aa1234.** legyen a jelszava
 
 | Teljes név             | Belépési név | Csoport  |
 | ---------------------- | ------------ | -------- |
@@ -87,16 +89,16 @@ A projekt során egy Windows-alapú szerverkörnyezetet kell kialakítani, amely
 
 | Feladat                  | Max. Pont | Elért Pont |
 | ------------------------ | --------- | ---------- |
-| VirtualBox konfiguráció  | 1         |            |
-| Kliensbeállítások        | 3         |            |
-| Szerverbeállítások       | 9         |            |
-| AD tartományvezérlő      | 3         |            |
-| Tartományba léptetés     | 2         |            |
-| DHCP konfigurálása       | 3         |            |
-| Távoli asztal beállítása | 1         |            |
-| Nyomtatószerver          | 2         |            |
-| Windows Server Backup    | 2         |            |
-| **Összesen**             | **26**    | **/**      |
+| VirtualBox konfiguráció  | 1         |       1    |
+| Kliensbeállítások        | 3         |       3    |
+| Szerverbeállítások       | 9         |       9    |
+| AD tartományvezérlő      | 3         |       3    |
+| Tartományba léptetés     | 2         |       2    |
+| DHCP konfigurálása       | 3         |       3    |
+| Távoli asztal beállítása | 1         |       1    |
+| Nyomtatószerver          | 2         |       2    |
+| Windows Server Backup    | 2         |       2    |
+| **Összesen**             | **26**    | **/26**      |
 
 **Vizsgáztató aláírása:** _______________________________
 
