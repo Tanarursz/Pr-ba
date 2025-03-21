@@ -77,7 +77,7 @@ A projekt során egy Windows-alapú szerverkörnyezetet kell kialakítani, amely
 | ------------------- | ------------- | ------------------------------- |
 | Tiltott IP 1        | 192.168.10.1  | Tiltott IP-cím                  |
 | Tiltott IP 2        | 192.168.10.2  | Tiltott IP-cím                  |
-| Tiltott IP 3        | 192.168.10.0  | Tiltott IP-cím                  |
+| Tiltott IP 3        | 192.168.10.3  | Tiltott IP-cím                  |
 | FeladatK (kliens)   | DHCP          | Kliensgép a feladat szerint     |
 | FeladatSZ (szerver) | 192.168.10.14 | Szerver az utolsó kiosztott cím |
 
