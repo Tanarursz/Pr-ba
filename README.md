@@ -48,7 +48,7 @@ A projekt során egy Windows-alapú szerverkörnyezetet kell kialakítani, amely
 | Szorgalmas Szebasztián | szorgalmas   | dolgozok |
 | Dolgozó Olga           | dolgozo      | adminok  |
 
-- Hozzon létre egy megosztott mappát, amely csak írási joggal rendelkezik és automatikusan felcsatolásra kerül. (1p)
+- Hozzon létre egy megosztott mappát, amely csak **olvasási** joggal rendelkezik és automatikusan felcsatolásra kerül. (1p)
 
 ### **5. Tartományba léptetés (2 pont)**
 - Lépje be a klienseket az Active Directory tartományba és ellenőrizze az erőforrások elérését.
