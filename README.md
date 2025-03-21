@@ -38,6 +38,7 @@ A projekt során egy Windows-alapú szerverkörnyezetet kell kialakítani, amely
 
 ### **4. Active Directory tartományvezérlő telepítése és konfigurálása (3 pont)**
 - A tartomány neve legyen: „robbanas.hu”. (1p)
+- A jelszó **Aa1234** legyen
 - Hozza létre a "dolgozok" és "adminok" csoportokat.
 - Adja hozzá a következő felhasználókat: (1p)
 
